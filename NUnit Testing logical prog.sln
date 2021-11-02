@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit Testing logical prog", "NUnit Testing logical prog\NUnit Testing logical prog.csproj", "{CF733DF6-32E1-4F8E-90C6-1BA2AC46DCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF733DF6-32E1-4F8E-90C6-1BA2AC46DCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF733DF6-32E1-4F8E-90C6-1BA2AC46DCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF733DF6-32E1-4F8E-90C6-1BA2AC46DCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF733DF6-32E1-4F8E-90C6-1BA2AC46DCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88077716-9CB9-4172-A823-A375AAE00889}
+	EndGlobalSection
+EndGlobal

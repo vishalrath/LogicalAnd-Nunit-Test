@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\NUnit Testing logical prog.exe
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\NUnit Testing logical prog.deps.json
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\NUnit Testing logical prog.runtimeconfig.json
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\NUnit Testing logical prog.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\NUnit Testing logical prog.dll
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\ref\NUnit Testing logical prog.dll
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\bin\Debug\net5.0\NUnit Testing logical prog.pdb
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.dll
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\ref\NUnit Testing logical prog.dll
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.pdb
+C:\Users\VISHAL\source\repos\NUnit Testing logical prog\NUnit Testing logical prog\obj\Debug\net5.0\NUnit Testing logical prog.genruntimeconfig.cache
