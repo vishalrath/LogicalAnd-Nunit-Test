@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\Logical_Program.exe
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\Logical_Program.deps.json
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\Logical_Program.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\Logical_Program.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\Logical_Program.dll
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\ref\Logical_Program.dll
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\bin\Debug\net5.0\Logical_Program.pdb
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.dll
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\ref\Logical_Program.dll
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.pdb
+C:\Users\VISHAL\source\repos\Logical_Program\Logical_Program\obj\Debug\net5.0\Logical_Program.genruntimeconfig.cache
